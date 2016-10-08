@@ -1,0 +1,45 @@
+body {
+    padding-top: 70px;
+}
+
+#content {
+    padding: 0 5px;
+    overflow: hidden;
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6,
+.col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12,
+.glyphicon-chevron-right {
+    line-height: 32px;
+    padding-left: 5px;
+}
+
+.col-xs-11 {
+    width: 100%;
+    margin-left: 42px;
+    padding-right: 47px;
+    margin-top: -32px;
+}
+
+.col-xs-1 {
+    padding-right: 0;
+    min-width: 37px;
+    max-width: 37px;
+    width: 37px;
+}
+
+.bootstrap-switch {
+    float: right;
+}
+
+.minicolors-theme-bootstrap {
+    float: right;
+    width: 50px;
+    margin-right: 10px;
+    border: #ff7200 dashed thin;
+}
+
+a, a:focus, a:hover {
+    text-decoration: none;
+    color: #333333;
+}
